@@ -1,0 +1,17 @@
+{
+  "projectName": "SmartD",
+  "version": "3.0",
+  "frontend": "javascript",
+  "javascript": {
+    "framework": "angular",
+    "config": {
+      "SourceDir": "C:\\Users\\david\\OneDrive\\SmartD",
+      "DistributionDir": "dist/SmartD",
+      "BuildCommand": "npm.cmd run-script build",
+      "StartCommand": "ng serve"
+    }
+  },
+  "providers": [
+    "awscloudformation"
+  ]
+}
